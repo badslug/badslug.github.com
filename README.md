@@ -1,4 +1,4 @@
-iainshigeoka.github.com
+iain.shigeoka.com
 =======================
 
-Website
+Website using Jekyll and GitHub Pages.
