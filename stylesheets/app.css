@@ -1,0 +1,34 @@
+#header {
+    background-color: #000;
+    font-weight: bold;
+    color: #fff;
+    border-bottom: 1px solid #aaa;
+    padding: 7px;
+    margin-bottom: 15px;
+}
+#header .title {
+    font-size: larger;
+}
+#header .title a {
+    color: #fff;
+}
+#header .links {
+    color: #ddd;
+    text-align: right;
+}
+#header .links a {
+    font-size: smaller;
+    color: #ddd;
+}
+#header .links ul {
+    display: inline;
+}
+#header .links li {
+    padding-left: 13px;
+    display: inline;
+}
+#footer {
+    padding-top: 20px;
+    text-align: center;
+    color: #ddd;
+}
